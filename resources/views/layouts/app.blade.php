@@ -29,8 +29,5 @@
             DevStagram - Todos los derechos reservados
             {{ now()->year }}
         </footer>
-
-
-
     </body>
 </html>
